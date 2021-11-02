@@ -6,3 +6,5 @@ Repositori ini dibangun mengikuti tahap demi tahap pada tutorial.
 Ini kalimat yang saya tambahkan pada tanggal 3 November 2021.
 
 Ini juga saya tambahkan pada tanggal 3 November
+
+Ini ditambahin lagi loooo
